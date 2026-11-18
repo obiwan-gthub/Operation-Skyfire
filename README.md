@@ -4,7 +4,7 @@ A 3D aerial combat game that runs directly in the browser. Fly an aircraft, defe
 
 ## Play
 
-[Ouvrir le jeu](https://obiwan-gthub.github.io/Operation-Skyfire/)
+**[PLAY](https://obiwan-gthub.github.io/Operation-Skyfire/)**
 
 Open the HTML file in a modern browser, then click **Décoller**.
 
