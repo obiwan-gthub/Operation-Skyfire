@@ -4,6 +4,8 @@ A 3D aerial combat game that runs directly in the browser. Fly an aircraft, defe
 
 ## Play
 
+[Ouvrir le jeu](https://obiwan-gthub.github.io/Operation-Skyfire/)
+
 Open the HTML file in a modern browser, then click **Décoller**.
 
 The game loads [Three.js](https://threejs.org/) from a CDN, so an internet connection is required to display the 3D scene.
